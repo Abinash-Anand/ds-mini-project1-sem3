@@ -1,0 +1,4 @@
+CREATE TABLE employee (empno INTEGER NOT NULL AUTO_INCREMENT, ename VARCHAR(24)  NOT NULL , depno INTEGER, 
+job VARCHAR(35),hiredate DATE,
+        PRIMARY KEY(empno)               
+                      );
