@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645618802 source:c:\code blocks ques\testing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
